@@ -1,3 +1,6 @@
+The best of my Blender work is showcased here in this README, but a total portfolio can be seen in blender/Portfolio
+
+Mission San Diego de Alcala
 ![alcala](https://user-images.githubusercontent.com/75499520/134797575-9ca3b729-2a8a-4872-9bc6-f8b75805d23a.png)
 ![cursive5](https://user-images.githubusercontent.com/75499520/134797583-b384768b-c11d-470b-9a60-d596c7575588.png)
 ![magritte3](https://user-images.githubusercontent.com/75499520/134797584-09d3f10d-6c9b-4647-876f-1cb295f446af.png)
